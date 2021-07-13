@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\decorator\\decoratorDemo1.ts",
+            "program": "${workspaceFolder}\\interface\\interfaceDemo.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/output/**/*.js"

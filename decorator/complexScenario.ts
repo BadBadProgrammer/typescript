@@ -1,4 +1,4 @@
-type Validator = (x: any) => boolean;
+type Validator = (x: any) => boolean
 
 // save the marks
 const validateMap: Record<string, Validator[]> = {};
